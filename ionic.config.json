@@ -1,0 +1,7 @@
+{
+  "name": "cs-ssn-maskito",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
